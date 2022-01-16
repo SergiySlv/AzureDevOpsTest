@@ -4,7 +4,7 @@
 
 ## Build status
 
-[![Build Status](https://dev.azure.com/SERGEYSLV3000/test/_apis/build/status/docker-ghost-ai?branchName=master)](https://dev.azure.com/SERGEYSLV3000/test/_build/latest?definitionId=20&branchName=master)
+[![Build Status](https://dev.azure.com/SERGEYSLV3000/test/_apis/build/status/docker-ghost-ai?branchName=master)](https://dev.azure.com/SERGEYSLV3000/test/_build/latest?definitionId=2&branchName=master)
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/sergeyslv/ghost-ai.svg)](https://hub.docker.com/r/sergeyslv/ghost-ai)
 
